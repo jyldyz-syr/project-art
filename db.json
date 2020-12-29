@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "title": "Sculpture",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShu90Mmu5hAxxjuqt8mJ5JTcKDKgkaFJ1vFA&usqp=CAU",
+      "price": "3000",
+      "category": "Sculptures",
+      
+      "id": 4
+    },
+    {
+      "title": "Decor",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "image": "https://i.pinimg.com/originals/f7/ef/df/f7efdf1a526718be590ed325c159a60c.jpg",
+      "price": "500000",
+      "category": "Decor",
+      "id": 5
+    },
+    {
+      "title": "Assesories",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9-gJHjwJZLrKkJfVeneqHlVAEoVrLLusnA&usqp=CAU",
+      "price": "500000",
+      "category": "Assesories",
+      "id": 6
+    },
+    {
+      "title": "Painting - 2 ",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "500000",
+      "category": "Paintings",
+      "image": "https://i.pinimg.com/originals/f7/ef/df/f7efdf1a526718be590ed325c159a60c.jpg",
+      "id": 7
+    },
+    {
+      "image": "https://www.gmirk.kz/images/central_asia_1.jpg",
+      "title": "Sculptures - 2",
+      "category": "Sculptures",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "500",
+      "id": 8
+    },
+    {
+      "title": "Assesories - 2",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "2000",
+      "category": "Assesories",
+      "image": "https://i.pinimg.com/originals/f7/ef/df/f7efdf1a526718be590ed325c159a60c.jpg",
+      "id": 9
+    },
+    {
+      "title": "Decor - 2",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "3000",
+      "category": "Decor",
+      "image": "https://i.pinimg.com/originals/f7/ef/df/f7efdf1a526718be590ed325c159a60c.jpg",
+      "id": 11
+    },
+    {
+      "title": "Paintings - 3",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "20000",
+      "category": "Paintings",
+      "image": "https://i.pinimg.com/originals/f7/ef/df/f7efdf1a526718be590ed325c159a60c.jpg",
+      "id": 12
+    },
+    {
+      "title": "Decor - 3 ",
+      "description": "From Soviet Orientalism to the New Republics. Find new items to decorate walls, homes. Besides, we provide ethic clothes to wear.",
+      "price": "20000",
+      "category": "Decor",
+      "image": "https://www.gmirk.kz/images/central_asia_1.jpg",
+      "id": 13
+    },
+    {
+      "title": "JULZZZZ",
+      "description": "JULZZZZ",
+      "price": "20000",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=892&hei=820&&qlt=80&.v=1603332211000",
+      "id": 14
+    }
+  ]
+}
